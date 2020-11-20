@@ -1,13 +1,14 @@
 ### Hi there, i'm [Sebastian Torres](https://www.linkedin.com/in/sebastian-torres-830347162/) 👋
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif">
 </p>
 
+---
 
-
-
+- :mortar_board: I'm a **Full Stack Developer** that graduated from [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) 
+- 💻 I’m currently learning React and Wordpress
+- 👯 I’m looking to collaborate with other developers
 
 ### Let's connect!
 
@@ -15,21 +16,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook%20-%231572B6.svg?&style=for-the-badge&logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/profile.php?id=678915665)
 
 --- 
-
-<!--
-**Sebastian-Torres-Matrix/Sebastian-Torres-Matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Programming Languages
 
@@ -86,14 +72,27 @@ Here are some ideas to get you started:
 
 ---
 
-### About me
+## About me
+
+ - **Obsessed of learning new things :mortar_board:**
 
   <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif">
 
+- **Love to be happy :joy:** 
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Travels ✈ 
+- **Love to read :books:**
+
+[Goodreads Profile](https://www.goodreads.com/user/show/86502876-sebastian)
+
+<img src="https://media.giphy.com/media/I1U9DTjCqOF3i/source.gif">
+
+- **Love to go out for a run :running:**
+
+<img src="https://media.giphy.com/media/3o7ZetIsjtbkgNE1I4/source.gif">
+
+- **Travel ✈** 
 
 🌍 Places I've been:
 
