@@ -1,4 +1,20 @@
-### Hi there, i'm Sebastian 👋
+### Hi there, i'm [Sebastian Torres](https://www.linkedin.com/in/sebastian-torres-830347162/) 👋
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif">
+</p>
+
+
+
+
+
+### Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sebastian-torres-830347162/)
+[![Facebook](https://img.shields.io/badge/Facebook%20-%231572B6.svg?&style=for-the-badge&logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/profile.php?id=678915665)
+
+--- 
 
 <!--
 **Sebastian-Torres-Matrix/Sebastian-Torres-Matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +57,6 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Sebastian-Torres-Matrix?tab=repositories)
 ![Gitpod](https://img.shields.io/badge/Gitpod%20-%231D1D1D.svg?&style=for-the-badge&logo=Gitpod&logoColor=1AA6E4)
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![Gitpod](https://img.shields.io/badge/Gitpod%20-%231D1D1D.svg?&style=for-the-badge&logo=Gitpod&logoColor=1AA6E4)
 
 ### Hosting | SaaS | PaaS
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
@@ -63,16 +78,20 @@ Here are some ideas to get you started:
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
-### Social
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sebastian-torres-830347162/)
-![Slack](https://img.shields.io/badge/Facebook%20-%231572B6.svg?&style=for-the-badge&logo=Facebook&logoColor=FFFFFF)(https://www.facebook.com/profile.php?id=678915665)
-
 ---
 
 [![Sebastian-Torres-Matrix github stats](https://github-readme-stats-zeta-five.vercel.app/api?username=Sebastian-Torres-Matrix&show_icons=true&theme=algolia)](https://github.com/Sebastian-Torres-Matrix/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 ---
+
+### About me
+
+  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif">
+
+
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Travels ✈ 
 
@@ -91,6 +110,7 @@ Here are some ideas to get you started:
 ![Cuba](https://www.countryflags.io/cu/flat/32.png)
 ![Denmark](https://www.countryflags.io/dk/flat/32.png)
 ![Dominican Republic](https://www.countryflags.io/do/flat/32.png)
+
 ![Ecuador](https://www.countryflags.io/ec/flat/32.png)
 ![Estonia](https://www.countryflags.io/ee/flat/32.png)
 ![Faroe Islands](https://www.countryflags.io/fo/flat/32.png)
@@ -102,11 +122,11 @@ Here are some ideas to get you started:
 ![Iceland](https://www.countryflags.io/is/flat/32.png)
 ![Italy](https://www.countryflags.io/it/flat/32.png)
 ![Japan](https://www.countryflags.io/jp/flat/32.png)
-![Maldives](https://www.countryflags.io/mv/flat/32.png)
-![Malta](https://www.countryflags.io/mt/flat/32.png)
-
-![Monaco](https://www.countryflags.io/mc/flat/32.png)
 ![Malaysia](https://www.countryflags.io/my/flat/32.png)
+![Maldives](https://www.countryflags.io/mv/flat/32.png)
+
+![Malta](https://www.countryflags.io/mt/flat/32.png)
+![Monaco](https://www.countryflags.io/mc/flat/32.png)
 ![Netherlands](https://www.countryflags.io/nl/flat/32.png)
 ![Norway](https://www.countryflags.io/no/flat/32.png)
 ![Peru](https://www.countryflags.io/pe/flat/32.png)
@@ -118,14 +138,15 @@ Here are some ideas to get you started:
 ![Saint Martin](https://www.countryflags.io/mf/flat/32.png)
 ![Singapore](https://www.countryflags.io/sg/flat/32.png)
 ![Sint Maarten](https://www.countryflags.io/sx/flat/32.png)
+
 ![South Korea](https://www.countryflags.io/kr/flat/32.png)
 ![Spain](https://www.countryflags.io/es/flat/32.png)
 ![Sweden](https://www.countryflags.io/se/flat/32.png)
 ![Switzerland](https://www.countryflags.io/ch/flat/32.png)
 ![Thailand](https://www.countryflags.io/th/flat/32.png)
-![Turkey](https://www.countryflags.io/tr/flat/32.png)
 ![Taiwan](https://www.countryflags.io/tw/flat/32.png)
 ![Tunisia](https://www.countryflags.io/tn/flat/32.png)
+![Turkey](https://www.countryflags.io/tr/flat/32.png)
 ![United Arab Emirates](https://www.countryflags.io/ae/flat/32.png)
 ![United Kingdom](https://www.countryflags.io/gb/flat/32.png)
 ![United States](https://www.countryflags.io/us/flat/32.png)
@@ -133,3 +154,13 @@ Here are some ideas to get you started:
 ![Vietnam](https://www.countryflags.io/vn/flat/32.png)
 
 ... to be continued
+
+---
+
+### One last thing....
+
+<p align="center">
+  <img src="https://media.giphy.com/media/lTAI5NrYLDZmUfmfuL/giphy.gif">
+</p>
+
+...see you in the Matrix :wink:
