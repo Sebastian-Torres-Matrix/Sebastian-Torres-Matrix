@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Sebastian 👋
 
 <!--
 **Sebastian-Torres-Matrix/Sebastian-Torres-Matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+[![Sebastian-Torres-Matrix github stats](https://github-readme-stats-zeta-five.vercel.app/api?username=Sebastian-Torres-Matrix)](https://github.com/Sebastian-Torres-Matrix/github-readme-stats)
+
