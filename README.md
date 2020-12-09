@@ -78,13 +78,13 @@
 
   <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif">
 
-- **Love to be happy :joy:** 
+- **Love to be happy (programmer jokes) :joy:** 
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 - **Love to read :books:**
 
-[Goodreads Profile](https://www.goodreads.com/user/show/86502876-sebastian)
+Visit my [Goodreads Profile](https://www.goodreads.com/user/show/86502876-sebastian)
 
 <img src="https://media.giphy.com/media/I1U9DTjCqOF3i/source.gif">
 
@@ -162,4 +162,4 @@
   <img src="https://media.giphy.com/media/lTAI5NrYLDZmUfmfuL/giphy.gif">
 </p>
 
-...see you in the Matrix :wink:
+...see you around :wink:
