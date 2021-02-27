@@ -72,6 +72,18 @@
 
 ---
 
+### Visit my blog: SUPERHYOUMANS
+
+- [SUPERHYOUMANS Blog](https://www.superhyoumans.com/)
+- [Instagram](https://www.instagram.com/superhyoumans/)
+- [Youtube](https://www.youtube.com/channel/UCTSGVU-PV0CHKMhMklh6Cqg)
+- [Podcast](https://anchor.fm/superhyoumans)
+- [Linkedin](https://www.linkedin.com/company/superhyoumans/about/?viewAsMember=true)
+- [Facebook](https://www.facebook.com/SuperhYOUmans/?view_public_for=104939021308225)
+- [Twitter](https://twitter.com/SuperhYOUmans)
+
+---
+
 ## About me
 
  - **Obsessed of learning new things :mortar_board:**
